@@ -2,8 +2,8 @@
 
 	- feature-A
 
-	- fix-B
-	- faeture-B
+	- fix-sdkf
+	- faeture-sdkfj
 	- feature-DE
 	- create Hello.java
 	- test-1
