@@ -2,7 +2,7 @@
 
 	- feature-A
 
-	- fix-B
+	- fix-aa
 	- faeture-B
 	- feature-DE
 	- create Hello.java
