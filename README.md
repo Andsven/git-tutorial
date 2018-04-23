@@ -3,6 +3,6 @@
 	- feature-A
 
 	- fix-B
-	- feature-C
+	- faeture-B
 	- feature-DE
 	- create Hello.java
